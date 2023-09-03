@@ -1,5 +1,5 @@
 {
-  "name": "@dojoengine/create-burner",
+  "name": "@bal7hazar/create-burner",
   "version": "0.0.15",
   "description": "Useful hooks and functions to create a Starknet burner wallet",
   "source": "src/index.ts",
